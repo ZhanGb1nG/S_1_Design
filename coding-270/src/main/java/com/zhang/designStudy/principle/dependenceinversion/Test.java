@@ -1,7 +1,7 @@
 package com.zhang.designStudy.principle.dependenceinversion;
 
 /**
- * TODO
+ * 依赖倒置原则学习测试类
  *
  * @Author ZhanG_b1nG
  * @Date 2020/3/29 17:42

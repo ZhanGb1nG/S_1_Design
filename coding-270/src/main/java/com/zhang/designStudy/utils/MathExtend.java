@@ -219,7 +219,7 @@ public class MathExtend {
 
         return b.setScale(scale, round_mode).doubleValue();
     }
-    
+
     /**
      * 提供精确的小数位四舍五入处理,舍入模式采用ROUND_HALF_EVEN
      *
