@@ -91,7 +91,6 @@ public class MathExtend {
         return b1.multiply(b2).toString();
     }
 
-
     /**
      * 提供（相对）精确的除法运算，当发生除不尽的情况时，精确到
      * <p>
@@ -105,7 +104,6 @@ public class MathExtend {
 
         return divide(v1, v2, DEFAULT_DIV_SCALE);
     }
-
 
     /**
      * 提供（相对）精确的除法运算。当发生除不尽的情况时，由scale参数指
@@ -221,8 +219,7 @@ public class MathExtend {
 
         return b.setScale(scale, round_mode).doubleValue();
     }
-
-
+    
     /**
      * 提供精确的小数位四舍五入处理,舍入模式采用ROUND_HALF_EVEN
      *
