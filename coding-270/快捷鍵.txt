@@ -36,3 +36,6 @@ Alt+Insert（提醒如果不是全键盘，Alt+Fn+Insert）
 
 - 把鼠标放到类上，get或set方法
 Alt+Insert（提醒如果不是全键盘，Alt+Fn+Insert）
+
+- 如何快速生成方法返回值
+ctrl+alt+v
