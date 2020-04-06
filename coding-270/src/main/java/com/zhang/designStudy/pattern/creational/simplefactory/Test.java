@@ -1,4 +1,4 @@
-package com.zhang.designStudy.creational.simplefactory;
+package com.zhang.designStudy.pattern.creational.simplefactory;
 
 /**
  * 简单工厂学习测试类

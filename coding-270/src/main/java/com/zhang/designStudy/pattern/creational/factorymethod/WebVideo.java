@@ -1,7 +1,7 @@
-package com.zhang.designStudy.creational.simplefactory;
+package com.zhang.designStudy.pattern.creational.factorymethod;
 
 /**
- * TODO
+ * 抽象产品类具体实现类
  *
  * @Author ZhanG_b1nG
  * @Date 2020/4/5 19:03
