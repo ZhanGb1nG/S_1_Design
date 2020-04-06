@@ -39,3 +39,7 @@ Alt+Insert（提醒如果不是全键盘，Alt+Fn+Insert）
 
 - 如何快速生成方法返回值
 ctrl+alt+v
+
+- 进入该方法具体的实现
+ctrl+alt+鼠标点击
+ctrl+alt+b
